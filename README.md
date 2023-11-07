@@ -23,8 +23,8 @@ I noted that in the next steps, I would be generating traffic from "attack-vm" t
 ### BEFORE SECURING ENVIRONMENT
 | Stage                                         | Value           |
 |-----------------------------------------------|------------------|
-| Start Time (BEFORE SECURING ENVIRONMENT)      | 2023-11-03 T 4:08:03.124PM |
-| Stop Time (BEFORE SECURING ENVIRONMENT)       | 2023-11-03 T 4:08:03.124PM |
+| Start Time      | 2023-11-03 T 4:08:03.124PM |
+| Stop Time        | 2023-11-03 T 4:08:03.124PM |
 | Security Events (Windows VMs)                 | 51330            |
 | Syslog (Linux VMs)                            | 22054            |
 | SecurityAlert (Microsoft Defender for Cloud)  | 35               |
